@@ -18,3 +18,7 @@ Duyarlı Tasarım (Responsive Design): Mobil, tablet ve masaüstü cihazlarda tu
 
 Enerjik ve Dinamik Renk Paleti: FastFood sektörünün enerjik atmosferini yansıtır.
 Temiz ve Sade Arayüz: Menüye ve diğer öğelere kolay erişim imkânı sunar.
+
+<h1>Ekran Görüntüsü</h1>
+
+![](./assets/project.gif)
